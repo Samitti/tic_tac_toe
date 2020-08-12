@@ -92,7 +92,7 @@ A special thanks for the code reviewers.
 👤 **Samuel**
 
 - Github: (https://github.com/Samitti)
-- Linkedin: (https://www.linkedin.com/in/samuel-ghebremeskel-29685811a/)
+- Linkedin: (https://www.linkedin.com/in/samuelghebremeskel/)
 - Twitter: (https://twitter.com/Samuel63734232)
 
 
